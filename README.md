@@ -22,5 +22,5 @@ I pass throught a PCA model the embeddings to reduce his dimensionality from 768
 Save the embeddings and use a KNN model to get the movies close to the one choosed to test.
 
 Test Movie: Batman v Superman: Dawn of Justice 
-![image](https://github.com/FelipeAce96/Movies-Embeddings-Recommender/assets/53706252/0384b9d6-25b4-44bd-93dc-ffc31e3d08f7)
+![image](https://github.com/FelipeAce96/Movies-Embeddings-Recommender/assets/53706252/fabe5445-9caf-471f-b934-0f3ed48b164c)
 
